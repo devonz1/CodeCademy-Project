@@ -1,6 +1,6 @@
   
 #  INTRODUCTION
-Interactive Piano Player Game Using JavaScript Events
+Interactive Piano Player Game Using JavaScript DOM Events
 <br> Code Cademy-Project
  
    
