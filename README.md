@@ -1,7 +1,7 @@
   
 #  INTRODUCTION
 Interactive Piano Player Game Using JavaScript Events
-<br> CodeCademy-Project
+<br> Code Cademy-Project
  
    
    
@@ -10,4 +10,4 @@ Interactive Piano Player Game Using JavaScript Events
 
  #  SCREENSHOTS
  
-<img src = " ">
+<img src = "Screenshot 2023-05-07 190749.png">
